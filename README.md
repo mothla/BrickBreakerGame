@@ -1,7 +1,7 @@
 # Brick Breaker Game
 A project for IT214 course, presented to Ms.Meshaiel Alsheail, the software development process of brick breaker game. 
 
-In the Brick Breaker Game, a player is required to break the wall of bricks by deflecting a bouncing ball with a paddle that can be moved horizontally by the player. We will be using NetBeans IDE to create this project.
+In the Brick Breaker Game, a player is required to break the wall of bricks by deflecting a bouncing ball with a paddle that can be moved horizontally by the player. We used NetBeans IDE to create this project.
 
 ## Idea of the game
 The player controls a paddle at the bottom of the window to bounce a ball that breaks blocks at the top of the window, each time the player breaks blocks the score increase by 1 that done with help of these statements:
