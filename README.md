@@ -19,7 +19,7 @@ We have use this pattern:
 
 <img width="550" alt="origional shape" src="https://user-images.githubusercontent.com/94991403/143684034-95de047a-12a9-449f-9ffc-afb8ea779053.png">
 
-If you wnat to use (Pyramidal Design Pattern) write these statements in MapGenerator file:
+If you wnat to use (Pyramidal Design Pattern) write these statements in [MapGenerator](https://github.com/mothla/BrickBreakerGame/blob/main/src/brickbreakergame/MapGenerator.java) file:
 
 ```java
 
